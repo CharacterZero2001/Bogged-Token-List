@@ -1,0 +1,15 @@
+{
+    "name": "TrustBaby",
+    "website": "https://trustbaby.net",
+    "telegram": "https://t.me/trustbabybsc",
+    "discord": "https://discord.gg/trustbabybsc",
+    "twitter": "https://twitter.com/trustbabybsc",
+    "description": "TrustBaby is a token on the BEP-20 Network that rewards you with TWT Tokens",
+    "explorer": "https://bscscan.com/token/0x36903e74b2cc3b7a660bef773732b7cf816e32d6",
+    "type": "BEP20",
+    "symbol": "$TBABY",
+    "decimals": 4,
+    "slippage": 3,
+    "status": "active",
+    "id": "0x36903e74b2cc3b7a660bef773732b7cf816e32d6"
+}
